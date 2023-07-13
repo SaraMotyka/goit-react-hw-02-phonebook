@@ -7,9 +7,25 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #a9846a;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.content__container {
+  margin: 0 auto;
+  margin-top: 60px;
+  padding: 25px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 600px;
+  background-color: #fff;
+  box-shadow: 0 1px 0 rgba(17, 17, 26, 0.1), 0 8px 24px rgba(17, 17, 26, 0.1),
+    0 16px 48px rgba(17, 17, 26, 0.1);
+  color: #1f3349;
+  border-radius: 10px;
 }
