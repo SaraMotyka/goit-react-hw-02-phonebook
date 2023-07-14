@@ -28,10 +28,10 @@
 }
 .form__btn {
   width: 100px;
-  background-color: #f3f6f9;
+  background-color: #d3b6a0;
   border: none;
   border-radius: 20px;
-  color: #82909e;
+  color: #fff;
   cursor: pointer;
   padding: 10px;
   text-align: center;
@@ -39,6 +39,6 @@
   margin: 0 auto 0;
 }
 .form__btn:hover {
-  background-color: #4267b2;
+  background-color: #aa7c60;
   color: #fff;
 }
